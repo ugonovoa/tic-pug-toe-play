@@ -1,0 +1,5 @@
+Tic-Pug-Toe public artifact
+private_source_repository: ugonovoa/tic-pug-toe
+private_source_commit: cc41d84a0789a89a57db08aca78d6200f7774db5
+build_date_bogota: 2026-07-19
+pages_base: /tic-pug-toe-play/
